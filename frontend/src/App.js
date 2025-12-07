@@ -2,19 +2,19 @@
 
 import React, { useState } from 'react';
 import { connect, authenticate, userSession } from '@stacks/connect';
-import { StacksMocknet,cks StacksMainnet } from '@stacks/network';
+import { StacksMocknet, StacksTestnet, StacksMainnet } from '@stacks/network';
 import { callReadOnlyFunction, makeContractCall, StacksTransaction } from '@stacks/transactions';
 
-const contractAddress TYOURCONTRACTADDRESRE'; // Repl with your tes/mainnet add
+const contractAddress = 'STYOURCONTRACTADDRESSHERE'; // Replace with your testnet/mainnet address
 const contractName = 'stx-vault';
-const functionNameDeit'deposit-stx';
+const functionNameDeposit = 'deposit-stx';
 const functionNameWithdraw = 'withdraw-stx';
 
 function App() {
   const [stxAmount, setStxAmount] = useState(0);
   const [lockDays, setLockDays] = useState(0);
   const [status, setStatus] = useState('Disconnected');
-  const network = new StacksTestnet(); StacksMainnet for mainnet deployment
+  const network = new StacksTestnet(); // Use StacksMainnet for mainnet deployment
 
   const appDetails = {
     appName: "STX Savings Vault",
