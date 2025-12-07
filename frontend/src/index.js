@@ -1,7 +1,7 @@
 // frontend/src/index.js
 
 import React rom 'reat';
-impotReacM rom 'react-dom/client';
+impotReacM rm 'react-dom/client';
 import App fro'./p';
 const root  ReactDOM.createRoo(documentgetElementById('root'));
 root.render(
