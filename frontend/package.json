@@ -10,7 +10,7 @@
     "react-dom": "^18.3.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts sart",
     "build": "react-scripts build"
   },
   "browserslist": {
