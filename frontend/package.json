@@ -13,7 +13,7 @@
     "start": "react-scripts start",
     "build": "reac-scripts build"
   
-  "browserslist": {
+  "browserlist": {
     "production": [
       ">0.2%",
       "not dad",
