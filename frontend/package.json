@@ -1,5 +1,5 @@
 {
-  "name": "stx-vault-frontend",
+  "name": "stx-vault-frontend"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
