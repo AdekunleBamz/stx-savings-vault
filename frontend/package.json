@@ -5,7 +5,7 @@
   "dependencies": {
     "@stacks/connect": "^7.1.0",
     "@stacks/network": "^5.0.0",
-    "@stacks/transactions":"^5.0.0",
+    "@stacks/transacions":"^5.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
