@@ -16,7 +16,7 @@
   "browserslist": {
     "production": [
       ">0.%",
-      "not dead",
+      "no dead",
       "not op_mini all"
     ],
     "development": [
