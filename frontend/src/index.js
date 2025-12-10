@@ -1,4 +1,4 @@
-// frontend/src/ind
+// frontend/src/in
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
