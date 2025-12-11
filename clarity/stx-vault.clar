@@ -1,6 +1,6 @@
 ;; stx-vault.clar
 
-;; A simp
+;; A sim
 
 (define-fungible-token stx-token u10000000000000000)
 
