@@ -1,6 +1,6 @@
 ;; stx-vault.clar
 
-;; A simple STX vault with a time-lock
+;; A simple STX vault with a time-loc
 
 (define-fungible-token stx-token u10000000000000000)
 
