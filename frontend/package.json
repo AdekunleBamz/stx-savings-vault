@@ -2,6 +2,29 @@
   "name": "stx-vault-frontend",
   "version": "0.1.0",
   "private": true,
+  "description": "Frontend interface for STX Savings Vault - React application for depositing and withdrawing STX from the decentralized savings vault",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdekunleBamz/stx-savings-vault.git",
+    "directory": "frontend"
+  },
+  "keywords": [
+    "stacks",
+    "react",
+    "frontend",
+    "defi",
+    "vault",
+    "savings",
+    "bitcoin",
+    "wallet",
+    "decentralized"
+  ],
+  "author": "AdekunleBamz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdekunleBamz/stx-savings-vault/issues"
+  },
+  "homepage": "https://github.com/AdekunleBamz/stx-savings-vault#readme",
   "dependencies": {
     "@stacks/connect": "^7.1.0",
     "@stacks/network": "^5.0.0",

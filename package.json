@@ -16,10 +16,22 @@
     "blockchain",
     "defi",
     "vault",
-    "savings"
+    "savings",
+    "bitcoin",
+    "smart-contracts",
+    "decentralized",
+    "time-lock"
   ],
-  "author": "",
+  "author": "AdekunleBamz",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdekunleBamz/stx-savings-vault.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdekunleBamz/stx-savings-vault/issues"
+  },
+  "homepage": "https://github.com/AdekunleBamz/stx-savings-vault#readme",
   "devDependencies": {
     "@types/node": "^20.0.0",
     "clarinet": "^2.9.0",
