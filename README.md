@@ -1,4 +1,4 @@
-# STX Vault -- Bitcoin-Backed Saving Vault on Stacks
+<!-- STX Savings Vault contribution -->n# STX Vault -- Bitcoin-Backed Saving Vault on Stacks
 
 ## Overview
 
