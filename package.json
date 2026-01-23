@@ -20,7 +20,7 @@
   ],
   "author": "",
   "license": "MIT",
-  "devDependencies": {
+  "homepage": "https://github.com/AdekunleBamz/stx-savings-vault",  "devDependencies": {
     "@types/node": "^20.0.0",
     "clarinet": "^2.9.0",
     "typescript": "^5.0.0",
